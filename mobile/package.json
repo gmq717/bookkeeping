@@ -9,6 +9,7 @@
   "dependencies": {
     "dayjs": "^1.11",
     "expo": "~52.0",
+    "expo-dev-client": "~5.0",
     "expo-router": "~4.0",
     "expo-secure-store": "~14.0",
     "expo-sqlite": "~15.0",
